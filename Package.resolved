@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "appcenter-sdk-apple",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/microsoft/appcenter-sdk-apple.git",
+      "state" : {
+        "revision" : "1120c26835925f8314d035127c580bc71689c620",
+        "version" : "5.0.4"
+      }
+    },
+    {
+      "identity" : "p2pgraph",
+      "kind" : "remoteSourceControl",
+      "location" : "https://dev.azure.com/LHG-Crew/P2PFramework/_git/P2PGraph",
+      "state" : {
+        "branch" : "main",
+        "revision" : "4606b5463be6303d99c72161866ba21a9eb4b678"
+      }
+    },
+    {
+      "identity" : "plcrashreporter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/microsoft/PLCrashReporter.git",
+      "state" : {
+        "revision" : "1aed8f7dc79ce8e674c61e430ef51ca3db18cea9",
+        "version" : "1.11.1"
+      }
+    }
+  ],
+  "version" : 2
+}
